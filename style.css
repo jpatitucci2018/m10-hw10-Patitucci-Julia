@@ -53,7 +53,7 @@
     color: var(--danger-color);
   }
   
-  .main__article, 
+  .article, 
   .nav {
     max-width: 1200px;
     margin: 0 auto;
@@ -74,7 +74,7 @@
   }
   
   .main__section
-  .main__article {
+  .article {
     margin-bottom: 96px;
     box-shadow: 4px 4px 10px var(--gray);
     background-color: var(--white);
@@ -109,16 +109,16 @@
     cursor: pointer;
   }
   
-  .main__article {
+  .article {
     padding: 48px 96px;
   }
   
-  .main__paragraph {
+  .paragraph {
     line-height: 1.75;
     margin-bottom: 48px;;
   }
   
-  .main__article__image {
+  .article__image {
     float: left;
     width: 300px;
     height: auto;
